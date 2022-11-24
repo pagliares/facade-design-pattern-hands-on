@@ -1,10 +1,10 @@
+package xyz.pagliares.facade.media.library.facade;
+
 import xyz.pagliares.facade.media.library.*;
 
-public class MainWithoutFacade {
-    public static void main(String[] args) {
+public class VideoConverterFacade {
+    public void convertVideo(String fileName, String format) {
         System.out.println("Video conversion program");
-        String fileName = "youtubevideo.ogg";
-        String format = "mp4";
         System.out.println("Conversion started.");
 
         VideoFile file = new VideoFile(fileName);
