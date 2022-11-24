@@ -11,3 +11,7 @@ In the Source_Code/Exercise folder of this repository, I provide the initial ver
 <p align="center">
 <img src="UML_Diagrams/Class_Diagram_Initial_Version.png" title="UML Class diagram form the initial version of the exercise" alt="UML Class Diagram">
 </p>
+
+## Solution
+
+See Source_Code/Solution folder of this repository for one possible solution for the exercise.
