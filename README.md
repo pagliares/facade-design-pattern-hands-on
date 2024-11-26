@@ -1,6 +1,6 @@
 # Facade design pattern hands-on
 
-Repository with source code to be used by the students as a starting point to the hands-on and source code with one possible solution.
+Repository with source code to be used by the students as a starting point to the hands-on and source code with one possible solution. This hands-on is based on the example available at <a href="https://refactoring.guru/pt-br/design-patterns/facade" alt="link to refactoring guru web site">refactoring.guru</a> website. 
 
 ## Exercise
 
